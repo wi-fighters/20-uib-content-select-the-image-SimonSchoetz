@@ -1,18 +1,28 @@
-  main {
-    margin: 30px;
-  }
-  
-  img {
-    height: 100px;
-  }
-  
-  /* Task 1 */
-  
-  /* Task 2 */
-  
-  /* Task 3 */
-  
-  /* Task 4 */
-  
-  /* Task 5 */
-  
+main {
+  margin: 30px;
+}
+
+img {
+  height: 100px;
+}
+
+/* Task 1 */
+h3 {
+  color: rgb(0, 0, 250);
+}
+/* Task 2 */
+.important-li {
+  color: rgb(250, 0, 0);
+}
+/* Task 3 */
+img ~ img {
+  border: solid 5px;
+}
+/* Task 4 */
+.com {
+  background-color: rgb(250, 250, 0);
+}
+/* Task 5 */
+#ymca {
+  color: rgb(120, 250, 100);
+}
